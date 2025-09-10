@@ -49,9 +49,12 @@ It consists of two main components:
 javac SpyServer.java
 java SpyServer
 
-
-## 2 Start the client
-
+```
+### 2 Start the client
+```bash
 javac SpyUser.java
 java SpyUser
+```
 
+### Author
+-Priyanshu Raut 
